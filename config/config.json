@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Bookworm Next | Personal Blog Theme",
+    "title": "AI Tool | AI Tool Blog",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "",
+    "logo": "",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "AI Tool"
   },
 
   "settings": {
@@ -18,7 +18,7 @@
   "params": {
     "tag_manager_id": "",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2022 a theme by [themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2023 "
   },
 
   "metadata": {
