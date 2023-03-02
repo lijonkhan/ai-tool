@@ -5,16 +5,8 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Pages",
-      "url": "",
+      "name": "Blog",
+      "url": "/blog",
       "hasChildren": false,
       "children": [
         {
