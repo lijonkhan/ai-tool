@@ -1,12 +1,12 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
+      "name": "",
+      "url": ""
     },
     {
-      "name": "Blog",
-      "url": "/blog",
+      "name": "",
+      "url": "",
       "hasChildren": false,
       "children": [
         {
