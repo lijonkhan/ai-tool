@@ -1,7 +1,7 @@
 ---
-title: Mark Dinn
-image: /images/authors/mark-dinn.jpg
-description: this is meta description
+title: Top Five Pick
+image:
+description:
 social:
   facebook: https://www.facebook.com/
   twitter: https://www.twitter.com/

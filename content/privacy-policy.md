@@ -1,30 +1,39 @@
 ---
 title: "Privacy"
-description: "this is meta description"
+description: ""
 draft: false
 ---
 
+At Top Five Pick, we are committed to protecting the privacy of our users. This privacy policy outlines the types of information we collect, how we use it, and the steps we take to safeguard your information.
 
-#### Responsibility of Contributors
+**Information We Collect**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+When you visit our website, we may collect certain information from you, such as your IP address, browser type, and operating system. We may also collect information about how you use our website, such as which pages you visit and which links you click on.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+In addition, if you choose to subscribe to our newsletter or participate in any of our surveys or contests, we may collect additional information from you, such as your name and email address.
 
-#### Gathering of Personal Information
+**How We Use Your Information**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+We use the information we collect to improve our website and provide you with a better user experience. For example, we may use your IP address to diagnose problems with our servers or to gather demographic information.
 
-#### Protection of  Personal- Information
+If you subscribe to our newsletter or participate in any of our surveys or contests, we may use your information to communicate with you about our products and services, as well as to administer the surveys or contests.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+We do not sell, rent, or share your information with any third parties, except as required by law.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+**Cookies**
 
-#### Privacy Policy Changes
+We use cookies on our website to personalize your experience and to gather information about how our website is used. Cookies are small files that are stored on your computer and contain information about your preferences and browsing habits.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+
+**Security**
+
+We take the security of your information seriously and take appropriate measures to protect it from unauthorized access or disclosure. We use industry-standard security technologies and procedures to safeguard your information.
+
+**Changes to this Privacy Policy**
+
+We may update this privacy policy from time to time. If we make any material changes to this policy, we will notify you by email or by posting a notice on our website.
+
+**Contact Us**
+
+If you have any questions or concerns about this privacy policy, please contact us at jessepeterson121@gmail.com.

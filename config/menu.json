@@ -45,6 +45,11 @@
     {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
+    },
+
+    {
+      "name": "Disclaimer",
+      "url": "/disclaimer"
     }
   ]
 }
